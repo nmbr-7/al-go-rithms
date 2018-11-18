@@ -1,4 +1,3 @@
-
 <h1 align="center">
 	<img width="400" src="media/algorithms.jpeg" alt="Algorithms">
 	<br>
@@ -32,7 +31,7 @@ Clean example implementations of data structures and algorithms written in diffe
  * Graphical examples would be very helpful too.
  * Don't forget to include tests.
  * Don't remove previous implementations of algorithms. Just add a new file with your own implementation.
- * Beautify and cleanup your code for easier reading
+ * Beautify and cleanup your code for easier reading.
 
 ## Resources
 
@@ -48,11 +47,12 @@ Clean example implementations of data structures and algorithms written in diffe
    * [Algorithms](https://www.amazon.in/Algorithms-Robert-Sedgewick/dp/032157351X)
  * **Sites**
    * [Algorithms - Tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
-   * [Algorithms - Princetone edu](http://algs4.cs.princeton.edu/home/)
+   * [Algorithms - Princetone edu](https://algs4.cs.princeton.edu/home/)
    * [Data structures and algorithms - Hackr](https://hackr.io/tutorials/learn-data-structures-algorithms)
    * [Data science - Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-   * [Fundamentals Of Algorithms- Geeks For Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+   * [Fundamentals Of Algorithms- Geeks For Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
    * [Visual Algorithm - visualising data structures and algorithms through animation](https://visualgo.net/en)
+   * [Java Algorithms - Geeks For Geeks](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 * **Online classes (Free)**
   * Coursera 
       * [Introduction to algorithms Part 1](https://www.coursera.org/learn/introduction-to-algorithms)
@@ -71,21 +71,38 @@ Clean example implementations of data structures and algorithms written in diffe
       * [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x)
      * [String Processing and Pattern Matching Algorithms](https://www.edx.org/course/string-processing-pattern-matching-uc-san-diegox-algs204x)
      * [Graph Algorithms in Genome Sequencing](https://www.edx.org/course/graph-algorithms-genome-sequencing-uc-san-diegox-algs206x)
-     * [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x) 
+     * [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x)
+   * Stony Brook University
+     * [Skiena's algorithms lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+* **Online classes (paid)**
+  * Udemy 
+      * [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
+      * [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
+      * [Learning Algorithms in JavaScript from Scratch](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/)
  * **Coding Practice Sites**
     * [HackerRank](https://www.hackerrank.com/)
     * [HackerEarth](https://www.hackerearth.com/)
-    * [SPOJ](http://www.spoj.com/)
+    * [SPOJ](https://www.spoj.com/)
     * [TopCoder](https://www.topcoder.com/)
     * [CodeChef](https://www.codechef.com/)
-    * [Codeforces](http://codeforces.com/)
+    * [Codeforces](https://codeforces.com/)
     * [Project Euler](https://projecteuler.net/)
     * [LeetCode](https://leetcode.com/)
     * [CodingGame](https://www.codingame.com/)
     * [CodeWars](https://codewars.com/)
+    * [InterviewBit](https://www.interviewbit.com/courses/programming/)
+    * [TechGig](https://www.techgig.com/)
+    * [Careercup](https://www.careercup.com/)
+    * [AtCoder](https://atcoder.jp/)
+    * [Codejam](https://code.google.com/codejam/)
+    * [Excercism](https://exercism.io/)
+    * [freeCodeCamp](https://www.freecodecamp.org/)
+    * [CodingBat](https://codingbat.com)
+    * [CodeGround](https://codeground.in/online-coding-test.html)
+    * [CoderByte](https://coderbyte.com/)
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Zoran Pandovski](https://github.com/ZoranPandovski/) has waived all copyright and related or neighboring rights to this work.
